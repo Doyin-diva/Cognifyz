@@ -5,3 +5,5 @@ I developed a comprehensive project in Excel, creating dashboard, and tables to 
 The dashboard aim at providing the stakeholder with insights into investment preferences, gender distribution, investment avenue frequency, distribution of saving objectives and participant investment expectation.
 
 # Data Used
+
+Cognifyz-Investment-Dashboard/blob/main/My%20Report.xlsx/hrf/
