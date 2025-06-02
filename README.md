@@ -34,6 +34,9 @@ EDA involved exploring the investment data to answer key questions, such as:
 - Since financial consultants are the most influential source of investment information, consider partnering with them for personalized investment advice, especially for newer products or underperforming categories
 - Invest in SEO-friendly blog posts, explainer videos, or interactive investment calculators to build digital trust and reach younger investors.
 
+### Screenshot
+![Screenshot ](https://github.com/user-attachments/assets/91f9d692-f84d-47a4-9bbc-e337bef89180)
+
 
 
 
