@@ -24,7 +24,7 @@ In the initial data data preparation phase, i performed the following task:
 ### Exploratory Data Analysis
 
 EDA involved exploring the investment data to answer key questions, such as:
-- What is the gender distribytion?
+- What is the gender distribution?
 - What are participants' investment preferences?
 - What are the participants' savig objectives?
 
